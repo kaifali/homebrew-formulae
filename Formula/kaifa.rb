@@ -1,8 +1,8 @@
 class Kaifa < Formula
   desc "Command-line tool for kaifa.li"
   homepage "https://github.com/kaifali/cli"
-  url "https://github.com/kaifali/cli/archive/v0.0.2.tar.gz"
-  sha256 "60229eec2ca9e719285a4fdb482598a6b612fd1f9eccbec8266e30a7ebb80d49"
+  url "https://github.com/kaifali/cli/archive/v0.0.3.tar.gz"
+  sha256 "5ae3502171c330cb6b778fa30af96dcf30e30beb297ea52f4e052038821ced02"
 
   head "https://github.com/kaifali/cli.git"
 
