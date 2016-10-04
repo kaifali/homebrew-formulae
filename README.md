@@ -1,6 +1,6 @@
 # Homebrew Formulae
 
-A [Homebrew tap](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md#how-to-create-and-maintain-a-tap) for [kaifa.li](http://kaifa.li)
+A [Homebrew tap](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md#how-to-create-and-maintain-a-tap) for [kaifa.at](http://kaifa.at)
 
 ## Usage
 
